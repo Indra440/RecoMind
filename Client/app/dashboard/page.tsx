@@ -190,7 +190,7 @@ export default function DashboardPage() {
                 </svg>
               </Link>
 
-              <Link 
+              {/* <Link 
                 href="/dashboard/plans"
                 className="flex items-center justify-between p-4 bg-gradient-to-r from-green-50 to-green-100 border border-green-200 rounded-xl hover:from-green-100 hover:to-green-200 transition-all duration-200 group"
               >
@@ -205,7 +205,7 @@ export default function DashboardPage() {
                 <svg className="w-5 h-5 text-green-600 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
-              </Link>
+              </Link> */}
 
               <button className="flex items-center justify-between p-4 bg-gradient-to-r from-purple-50 to-purple-100 border border-purple-200 rounded-xl hover:from-purple-100 hover:to-purple-200 transition-all duration-200 group w-full">
                 <div className="flex items-center space-x-3">
