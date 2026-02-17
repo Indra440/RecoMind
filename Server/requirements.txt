@@ -1,0 +1,23 @@
+
+supabase password :- techny@Verse2k26!
+database password :- recoMind@2k26!
+
+
+fastapi
+
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+asyncpg
+psycopg2-binary
+
+alembic
+python-dotenv
+httpx
+redis
+openai
+pgvector
+supabase
+stripe
+apscheduler
